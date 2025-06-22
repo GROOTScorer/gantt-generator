@@ -10,6 +10,7 @@
   },
   "dependencies": {
     "aos": "^2.3.4",
+    "frappe-gantt": "^1.0.3",
     "next": "15.3.3",
     "react": "^19.0.0",
     "react-dom": "^19.0.0",
